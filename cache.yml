@@ -1,0 +1,20 @@
+!!com.aptana.scripting.model.BundleElement
+author: Ingo Muschenetz
+children: []
+copyright: null
+customProperties: null
+decreaseIndentMarkers: &id001 {}
+description: 'Support for the <a href="http://dojo.org/">Dojo JavaScript library</a>.
+
+  '
+displayName: Dojo
+fileTypeRegistry: *id001
+fileTypes: []
+foldingStartMarkers: *id001
+foldingStopMarkers: *id001
+increaseIndentMarkers: *id001
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: null
+visible: true
