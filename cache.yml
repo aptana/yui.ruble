@@ -4,10 +4,11 @@ children: []
 copyright: null
 customProperties: null
 decreaseIndentMarkers: &id001 {}
-description: 'Support for the <a href="http://dojo.org/">Dojo JavaScript library</a>.
+description: 'Support for the <a href="http://developer.yahoo.com/yui/">YUI JavaScript
+  library</a>.
 
   '
-displayName: Dojo
+displayName: YUI
 fileTypeRegistry: *id001
 fileTypes: []
 foldingStartMarkers: *id001
